@@ -1,0 +1,14 @@
+/* this calls the files for everything. see index.html */
+@import url("reset.css");
+@import url("960.css");
+@import url("text.css");
+@import url("master.css");#Next {
+	list-style-image: url(../../pics/1.jpg);
+	overflow: scroll;
+}
+.Next {
+	height: 500px;
+	width: 500px;
+	list-style-image: url(../../pics/1.jpg);
+	overflow: auto;
+}
